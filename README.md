@@ -1,2 +1,3 @@
 # newRepo
 for test
+dine
